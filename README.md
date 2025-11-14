@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Data Analyst Portfolio
+https://raw.githubusercontent.com/essencem316/Essence-magnetic-portfolio-/refs/heads/main/Head%20shot.jpg.HEIC# 🌟 Welcome to My Data Analyst Portfolio
 
 Hi, I’m Essence magnetic an aspiring Data Analyst dedicated to transforming data into meaningful insights.  
 This portfolio highlights my growing skills in SQL, Excel, data visualization, and problem-solving.  
@@ -19,8 +19,7 @@ Feel free to explore, connect with me, or follow along as I continue building!
 
 
 ## About Me
-*(Upload your image to the repo, then add it below like this:)*  
-`![Headshot](yourimagename.jpg)
+
 
 I’m currently training to become a Data Analyst through Merit America.  
 I enjoy discovering patterns in data, solving problems, and building skills that help turn numbers into decisions.
